@@ -1,0 +1,13 @@
+.mycontainer {
+  width:100%;
+  overflow:auto;
+  /* display: flex; */
+}
+.mycontainer div {
+  width:33%;
+  float:left;
+}
+
+/* div {
+    display: flex;
+} */
